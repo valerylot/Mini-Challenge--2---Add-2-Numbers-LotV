@@ -1,4 +1,5 @@
 ﻿//Valery Lot
+//09/09/2026
 //Mini Challenge #2 Add 2 Numbers
 //I used variables to store numbers that user input as strings, then converted it to integers and added them together
 //Peer review name:
