@@ -1,0 +1,14 @@
+/Users/valerylot/Desktop/CSA Combine/Homework/Mini Challenge #2 - Add 2 Numbers LotV/bin/Debug/net10.0/Mini Challenge #2 - Add 2 Numbers LotV
+/Users/valerylot/Desktop/CSA Combine/Homework/Mini Challenge #2 - Add 2 Numbers LotV/bin/Debug/net10.0/Mini Challenge #2 - Add 2 Numbers LotV.deps.json
+/Users/valerylot/Desktop/CSA Combine/Homework/Mini Challenge #2 - Add 2 Numbers LotV/bin/Debug/net10.0/Mini Challenge #2 - Add 2 Numbers LotV.runtimeconfig.json
+/Users/valerylot/Desktop/CSA Combine/Homework/Mini Challenge #2 - Add 2 Numbers LotV/bin/Debug/net10.0/Mini Challenge #2 - Add 2 Numbers LotV.dll
+/Users/valerylot/Desktop/CSA Combine/Homework/Mini Challenge #2 - Add 2 Numbers LotV/bin/Debug/net10.0/Mini Challenge #2 - Add 2 Numbers LotV.pdb
+/Users/valerylot/Desktop/CSA Combine/Homework/Mini Challenge #2 - Add 2 Numbers LotV/obj/Debug/net10.0/Mini Challenge #2 - Add 2 Numbers LotV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valerylot/Desktop/CSA Combine/Homework/Mini Challenge #2 - Add 2 Numbers LotV/obj/Debug/net10.0/Mini Challenge #2 - Add 2 Numbers LotV.AssemblyInfoInputs.cache
+/Users/valerylot/Desktop/CSA Combine/Homework/Mini Challenge #2 - Add 2 Numbers LotV/obj/Debug/net10.0/Mini Challenge #2 - Add 2 Numbers LotV.AssemblyInfo.cs
+/Users/valerylot/Desktop/CSA Combine/Homework/Mini Challenge #2 - Add 2 Numbers LotV/obj/Debug/net10.0/Mini Challenge #2 - Add 2 Numbers LotV.csproj.CoreCompileInputs.cache
+/Users/valerylot/Desktop/CSA Combine/Homework/Mini Challenge #2 - Add 2 Numbers LotV/obj/Debug/net10.0/Mini Challenge #2 - Add 2 Numbers LotV.dll
+/Users/valerylot/Desktop/CSA Combine/Homework/Mini Challenge #2 - Add 2 Numbers LotV/obj/Debug/net10.0/refint/Mini Challenge #2 - Add 2 Numbers LotV.dll
+/Users/valerylot/Desktop/CSA Combine/Homework/Mini Challenge #2 - Add 2 Numbers LotV/obj/Debug/net10.0/Mini Challenge #2 - Add 2 Numbers LotV.pdb
+/Users/valerylot/Desktop/CSA Combine/Homework/Mini Challenge #2 - Add 2 Numbers LotV/obj/Debug/net10.0/Mini Challenge #2 - Add 2 Numbers LotV.genruntimeconfig.cache
+/Users/valerylot/Desktop/CSA Combine/Homework/Mini Challenge #2 - Add 2 Numbers LotV/obj/Debug/net10.0/ref/Mini Challenge #2 - Add 2 Numbers LotV.dll
